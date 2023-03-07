@@ -1,4 +1,4 @@
-# 👋 Hey, I'm TheOldHook!
+# 👋 Hey,
 
 
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) 
